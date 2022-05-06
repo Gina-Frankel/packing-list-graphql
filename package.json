@@ -1,0 +1,19 @@
+{
+  "name": "packinglistgraphql",
+  "version": "1.0.0",
+  "description": "A packing list graphql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "graphql"
+  ],
+  "author": "Gina Frankel",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "graphql": "^16.4.0"
+  }
+}
